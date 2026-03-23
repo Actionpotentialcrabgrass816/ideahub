@@ -121,7 +121,7 @@ IdeaHub 是一个面向内容创作者的智能素材管理工具。通过多种
 ### 步骤 1: 克隆项目
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ideahub.git
+git clone https://github.com/kangarooking/ideahub.git
 cd ideahub
 ```
 
@@ -273,7 +273,7 @@ ideahub/
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 提交 Pull Request
 
-如有问题或建议，欢迎 [提交 Issue](https://github.com/YOUR_USERNAME/ideahub/issues)。
+如有问题或建议，欢迎 [提交 Issue](https://github.com/kangarooking/ideahub/issues)。
 
 ---
 

